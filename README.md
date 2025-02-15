@@ -56,8 +56,9 @@ The dataset contains historical sales data, including:
 
 ---
 
-## 📧 Contact
-📬 For any inquiries or suggestions, reach out at **[your email/contact info]**.
+
 
 🚀 Happy Forecasting! 🎉
+
+Note: This dataset is artificially generated and is intended solely for educational purposes.
 
